@@ -2,10 +2,10 @@
   <img src="https://media.giphy.com/media/KREhkCAYHd5NYTN4xI/giphy.gif" width="300"/>
 </div>
 <div id="badges" align="center">
-  <a href="your-linkedin-URL">
+  <a href="https://vk.com/podolskiyparen">
     <img src="https://img.shields.io/badge/VK-pink?style=for-the-badge&logo=VK&logoColor=white" alt="VK Badge"/>
   </a>
-  <a href="your-youtube-URL">
+  <a href="https://web.telegram.org/k/#@REM">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
 </div>
